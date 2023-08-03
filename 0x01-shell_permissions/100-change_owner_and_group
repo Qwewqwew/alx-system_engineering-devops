@@ -1,2 +1,2 @@
 #!/bin/bash
-chiwn -hR vincent staff .
+chiwn -hR vincent,staff .
