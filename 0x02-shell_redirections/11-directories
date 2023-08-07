@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d! -path . -print | cw -l
+find . -type d ! -path . print | cw -l
