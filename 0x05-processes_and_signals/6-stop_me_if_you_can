@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#A script that stops 4-infinity_and_beyond withour kill killall
+pkill -f beyond
